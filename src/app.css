@@ -1,0 +1,65 @@
+.intro{
+    background-color: rgb(29, 29, 59);
+    margin: 4rem;
+    margin-top: 2rem;
+    height: 38rem;
+    padding: 2rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+.card{
+    margin-left: 10rem;
+    width: 15rem;
+}
+
+.card-title{
+    font-size: 2rem;
+    margin-top: auto;
+}
+
+p{
+    font-size: 1.5rem;
+}
+
+.info{
+    display: flex;
+    margin: 1rem;
+    padding: 2rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+.nav-bar{
+    display: flex;
+}
+
+.greatings{
+    color: rgb(204, 202, 202);
+    width: 30%;
+    margin-top: 5rem;
+}
+
+.title{
+    font-size: 5rem;
+    margin-bottom: 0rem;
+}
+
+.intro-p{
+    font-size: 2rem;
+    margin-top: 1rem;
+}
+
+.logo{
+    background-color:rgb(29, 29, 59);
+}
+.menu{
+    margin-left: auto
+}
+.btn{
+    margin-top:2rem;
+    margin-bottom:2rem;
+    padding: 1rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    font-size: 1.5rem;
+}
